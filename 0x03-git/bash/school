@@ -1,8 +1,2 @@
 #!/bin/bash
-echo "School" 
-"School"
-echo "" 
-"School"
 echo "The school is open! " 
-"School"
-echo "The school is open!" 
